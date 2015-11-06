@@ -6,6 +6,12 @@ The idea is to sample location point each interval time and drawing it. In order
 ![My image][1]
 
 
+Developed By
+--------------------
+
+Doron Kakuli - <doronkakuli@gmail.com>
+
+
 License
 -----------
 
